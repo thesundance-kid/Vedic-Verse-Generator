@@ -33,9 +33,11 @@ The project shows clear improvements in model performance with increasing n-gram
 
 Sample generated text becomes increasingly coherent with larger n-grams, though with interesting computational challenges at higher orders. At the size of heptagrams and above, my kernel dies. But as we know; death is certain for one who has been born, and rebirth is inevitable for one who has died. Therefore, you should not lament over the inevitable.
 
-Some personal favorites of the computer generated vedic pearls:
-- "Ia furthened or purities with many sight as mighty vabhru thou sees his shalya upraise of bhishma on himself and thou seeks to a hundreds of all crowned for that has and then those two portion xlvi sanatsujata p by the require pourer of all religious brahma." : from the hexagram model. Im sure deep within this sentence exists much wisdom. Ponder away.
-- "Hymn." : short and sweet. Deeply instructive. 
+## Some personal favorites of the computer generated vedic pearls:
+
+- "Ia furthened or purities with many sight as mighty vabhru thou sees his shalya upraise of bhishma on himself and thou seeks to a hundreds of all crowned for that has and then those two portion xlvi sanatsujata p by the require pourer of all religious brahma."   : from the hexagram model. Im sure deep within this sentence exists much wisdom.
+  
+- "Hymn."   : short and sweet. Deeply instructive. 
 
 ## Technical Implementation
 
